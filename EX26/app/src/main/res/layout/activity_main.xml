@@ -13,13 +13,13 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:text="Start"/>
+        android:text="点击开始"/>
 
     <TextView
         android:id="@+id/Second"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="计时开始"
+        android:text=""
         android:layout_below="@+id/buttontext"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
